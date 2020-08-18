@@ -2,5 +2,8 @@
   width:35%;
   height: 400px;
 
-  margin:auto;
+  margin:30px auto;
+
+  text-align: center;
+  overflow: scroll;
 }

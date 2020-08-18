@@ -1,0 +1,13 @@
+.BurgerControls{
+  width:100%;
+
+  background: skyblue;
+  margin:0 auto;
+  align-items: center;
+  display: block;
+ text-align: center;
+}
+.price{
+  margin:40px;
+
+}
